@@ -1,0 +1,188 @@
+repo_name: Wladoo/Real-Time-Voice-Cloning
+report_id: 61d0873188f4eceb00362b98298e8523
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T10:25:21+00:00'
+requested_by: CorentinJ
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning
+  detection_source: Repo Metadata
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-04-14 11:49:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-04-14 11:49:15.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.14.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-04-14 11:49:15.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-04-14 11:49:15.000000000 Z
+- name: TensorFlow
+  description: Open Source Software Library for Machine Intelligence
+  website_url: https://www.tensorflow.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-06-11 09:08:56.000000000 Z
+- name: Unidecode
+  description: ASCII transliterations of Unicode text
+  package_url: https://pypi.org/project/Unidecode
+  license: GPL-2.0+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20001/default_fcae0ff2da138e12178ddb620f53c8af65eb3f61.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Alex Peattie
+  last_updated_on: 2019-06-17 18:34:20.000000000 Z
+- name: inflect
+  description: Correctly generate plurals
+  package_url: https://pypi.org/project/inflect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20130/default_5c04115b22cdadfa4cb3de74c5ab15c454f7c405.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-06-17 19:35:06.000000000 Z
+- name: librosa
+  description: Python module for audio and music processing
+  package_url: https://pypi.org/project/librosa
+  version: 0.5.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-04-14 11:49:15.000000000 Z
+- name: multiprocess
+  description: Better multiprocessing and multithreading in python
+  package_url: https://pypi.org/project/multiprocess
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20654/default_4658783a4f70e14bc0c2a151840ea9736539842c.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-06-21 13:03:38.000000000 Z
+- name: numba
+  description: Compiling Python code using LLVM
+  package_url: https://pypi.org/project/numba
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20053/default_9f5ca9b3fcd68c068d4026e56ab738e8e865691f.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-06-25 12:53:08.000000000 Z
+- name: sounddevice
+  description: Play and Record Sound with Python
+  package_url: https://pypi.org/project/sounddevice
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-05-14 11:25:41.000000000 Z
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/Wladoo/Real-Time-Voice-Cloning/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Corentin Jemine
+  last_updated_on: 2019-05-14 11:25:41.000000000 Z
